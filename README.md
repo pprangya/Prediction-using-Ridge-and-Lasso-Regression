@@ -59,7 +59,7 @@ AssignmentDataAnalytics/
 ├── train.csv                        # Dataset
 ├── data_description.txt             # Feature descriptions
 ├── house_price_prediction.ipynb    # Main analysis notebook
-├── Subjective_Answers.md           # Assignment answers
+├── Subjective_Answers.pdf           # Assignment answers
 ├── README.md                        # This file
 └── output/                          # Generated results
     ├── model_comparison.csv
